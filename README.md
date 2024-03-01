@@ -16,3 +16,4 @@
 Оно объединяет приложение React в production и оптимизирует сборку для лучшей производительности.
 
 Сборка минимизирована, имена файлов содержат хэши.\
+Ссылка на GH-pages [https://phentality.github.io/testTask/](https://phentality.github.io/testTask/)
