@@ -1,0 +1,17 @@
+.pagination {
+    list-style-type: none;
+    color:white;
+    display: flex;
+    flex-direction: row;
+}
+
+.page-link {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    color: white;
+}
+
+.page-link:active {
+    color: goldenrod;
+}

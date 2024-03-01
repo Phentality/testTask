@@ -1,0 +1,10 @@
+@import url(./vendor/normalize.css);
+@import url(./components/App/App.css);
+@import url(./components/Card/Card.css);
+@import url(./components/Main/Main.css);
+@import url(./components/Pagination/Pagination.css);
+@import url(./components/Preloader/Preloader.css);
+
+.page {
+  background-color: #202020;
+}
